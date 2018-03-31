@@ -1,0 +1,8 @@
+.vs
+*.db
+*.sdf
+*.suo
+Release
+Debug
+obj
+*.txt
